@@ -23,5 +23,5 @@
 Freelance projects · Internships & jobs · Collaborations
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Walker-Gideon&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=gideonwalker&theme=radical&hide_border=true" />
 </p>

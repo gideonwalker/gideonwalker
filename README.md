@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Walker 👋</h1>
+<h1 align="center">Hi, I'm Gideon 👋</h1>
 <p align="center">
   I help people & businesses bring their ideas to life with code
 </p>

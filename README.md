@@ -13,7 +13,7 @@
 
 ### ⚡ Built with
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,firebase,tailwind&perline=8" alt="React, React Native, Next.js, TypeScript, Node.js, Express, MongoDB, Firebase, Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, Firebase, Git, GitHub" />
 </a>
 
 ### 💼 Experience
